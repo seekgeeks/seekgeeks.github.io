@@ -1,4 +1,4 @@
-![SeekGeeks](assets/logo/logo.jpeg)
+![SeekGeeks](assets/logo/seekgeeks.jpeg)
 # Welcome to Seekgeek
 
 We are team of profressional web developer and we love open source.  
