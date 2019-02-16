@@ -1017,6 +1017,9 @@ END Call To Action
 .single-post a >img{
     border-radius: 5px 5px 0px 0px;
     max-width: 100%;
+    object-fit: cover;
+    object-position: center center;
+    height:250px;
 }
 .single-post .blog-meta{}
 .single-post .blog-meta ul{}
@@ -1791,3 +1794,9 @@ END Blog Standard
 /*===========================
 END Blog Details
 ===========================*/
+
+.about-icon {
+    font-size: 50px;
+    color: #52c5de;
+    /* font-weight: 900; */
+}
