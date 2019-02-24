@@ -295,6 +295,7 @@ END Header Area
     color: #fff;
     letter-spacing: 0;
     line-height: 49px;
+    text-shadow: 5px 5px 15px #000;
 }
 
 .slider-inner h5 {
@@ -305,6 +306,7 @@ END Header Area
     line-height: 39px;
     margin-bottom: 50px;
     margin-top: 5px;
+    text-shadow: 5px 5px 15px #000;
 }
 
 .slider-inner a {
