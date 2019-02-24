@@ -978,6 +978,10 @@ END Pricing Area
     z-index: -1;
     background-color: rgba(19,197,222,0.9);
 }
+
+.call-to-action.connect:before{
+    background-color: rgba(7, 75, 84, 0.9);
+}
 .download-btns a {
     margin: 0px 32px;
     height: 50px;
