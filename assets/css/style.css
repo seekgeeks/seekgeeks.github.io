@@ -400,12 +400,14 @@ END Slider Area
     color: #232323;
     letter-spacing: 0;
     margin-bottom: 10px;
+    margin-top: 20px;
 }
 
 .service-single p {
     font-weight: 500;
     color: #666666;
     font-size: 15px;
+    padding: 10px;
 }
 
 
