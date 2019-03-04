@@ -197,7 +197,7 @@ textarea {
 
 .main-menu nav ul li:hover a:before,
 .main-menu nav ul li.active a:before {
-    width: 70%;
+    width: 55%;
 }
 
 
@@ -430,14 +430,45 @@ END Service Area
 .section-title h2 {
     font-size: 30px;
     font-weight: 500;
-    color: #232323;
+    color: #fff;
     letter-spacing: 0;
     line-height: 37px;
     position: relative;
     margin-bottom: 20px;
     padding-bottom: 20px;
 }
+.team{
+   color: #000!important; 
+}
+h2.team:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+    width: 130px;
+    background-color: #5dafc3!important;
+    left: calc(50% - 65px);
+}
+h2.team:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    height: 8px;
+    width: 8px;
+    background-color:#5dafc3!important;
+    left: calc(50% - 4px);
+    }
+    a.headerlink:before{
+       display: none!important;
+    }
+    i.fa.fa-github:hover{
+        color: #000;
+        border-radius: 50%;
+        transition: 1s;
 
+    }
 .section-title.text-white h2{
     color: #fff;
 }
@@ -449,7 +480,7 @@ END Service Area
     bottom: 0;
     height: 2px;
     width: 130px;
-    background-color: #5dafc3;
+    background-color: #fff;
     left: calc(50% - 65px);
 }
 
@@ -464,7 +495,7 @@ END Service Area
     bottom: -3px;
     height: 8px;
     width: 8px;
-    background-color: #5dafc3;
+    background-color: #fff;
     left: calc(50% - 4px);
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
