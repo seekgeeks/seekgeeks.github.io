@@ -29,5 +29,5 @@
 
 # Thank you
 Yes you deserve a big thank you for making SeekGeeks better everytime.
-You can follow us on Twitter and Instagram with handle @_seekgeeks_
+You can follow us on Twitter and Instagram with handle @__seekgeeks__
 
