@@ -10,6 +10,6 @@ Please feel free to tweet any of us with #seekgeeks and we will love to hear you
 [Learn more about contribution](contribution.md);
 
 Dheeraj jha [ [@thedijje](https://twitter.com/thedijje) ]  
-Shivani sehdev [ [@shivanisehdev86](https://twitter.com/shivanisehdev86) ]  
+Shivani sehdev [ [@letstalkndev](https://twitter.com/letstalkndev) ]  
 Abhishek jain [ [@jazeabby](https://twitter.com/jazeabby) ]  
 Utkarsh jain [ [@COOLDUDEUTKARSH](https://twitter.com/COOLDUDEUTKARSH) ]  
