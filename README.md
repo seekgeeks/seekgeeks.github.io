@@ -11,5 +11,5 @@ Please feel free to tweet any of us with #seekgeeks and we will love to hear you
 
 Dheeraj jha [ [@thedijje](https://twitter.com/thedijje) ]  
 Shivani sehdev [ [@letstalkndev](https://twitter.com/letstalkndev) ]  
+Tushar Khanna [ [@Tkhanna007](https://twitter.com/Tkhanna007) ]  
 Abhishek jain [ [@jazeabby](https://twitter.com/jazeabby) ]  
-Utkarsh jain [ [@COOLDUDEUTKARSH](https://twitter.com/COOLDUDEUTKARSH) ]  
